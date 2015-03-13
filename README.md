@@ -1,10 +1,9 @@
-# Date
-
 # Links
 - Chaos Communication Camp 2015: save the date!:  http://events.ccc.de/2015/02/10/chaos-communication-camp-2015-save-the-date/
+- Field Day: http://events.ccc.de/category/camp2015/
 
 # Dates
-- camp field day 21.3. http://events.ccc.de/category/camp2015/
+- field day: 21.3. http://events.ccc.de/category/camp2015/
 - camp: 12.8. - 17.8.2015
 
 # Price
